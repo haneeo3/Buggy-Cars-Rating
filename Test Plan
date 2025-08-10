@@ -47,8 +47,25 @@ Exploratory testing to find unexpected bugs.
 Cross-browser and device testing.
 
 6. Test Environment
-Devices: Desktop (Windows, Mac), Mobile (Android, iOS)
+Devices: Desktop (Windows), Mobile (Android)
 
-Browsers: Chrome, Firefox, Edge, Safari
+8. Entry Criteria
+Application deployed on test environment.
+
+Test accounts created.
+
+Test data for cars pre-loaded.
+
+9. Exit Criteria
+All critical and high priority tests passed.
+
+No showstopper bugs remain.
+
+Bug backlog reviewed and accepted by stakeholders
+
+Devices: 2 PC,Android phone
+
+
+Browser: Chrome
 
 Network: Wi-Fi and Mobile Data
