@@ -1,0 +1,54 @@
+Test Plan: Buggy Cars Rating
+1. Introduction
+Purpose: To ensure the Buggy Cars Rating system works correctly in all critical functionalities including car listing, rating submission, bug reporting, and user interactions.
+
+Scope: Functional testing, usability testing, performance, and security testing of core features.
+
+2. Objectives
+Verify users can view cars.
+
+Verify users can submit ratings.
+
+Verify bug reports can be submitted and tracked.
+
+Ensure the UI is user-friendly and responsive.
+
+Confirm no critical bugs prevent core functionality.
+
+3. Features to be Tested
+Car listing page loads correctly with all cars displayed.
+
+Rating system (star rating or numeric) works correctly.
+
+Bug reporting form submits properly.
+
+User registration/login (if applicable).
+
+Viewing average rating per car.
+
+Filtering/sorting cars by rating or other attributes.
+
+Error handling and validation for inputs.
+
+Security checks on user inputs (prevent injection, etc).
+
+4. Features NOT to be Tested
+Third-party integrations (unless related to ratings).
+
+Backend database performance under heavy load (if not in scope).
+
+5. Test Approach
+Manual testing for UI/UX and functionality.
+
+Automated testing scripts for regression (optional).
+
+Exploratory testing to find unexpected bugs.
+
+Cross-browser and device testing.
+
+6. Test Environment
+Devices: Desktop (Windows, Mac), Mobile (Android, iOS)
+
+Browsers: Chrome, Firefox, Edge, Safari
+
+Network: Wi-Fi and Mobile Data
