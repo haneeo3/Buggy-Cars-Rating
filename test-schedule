@@ -1,0 +1,88 @@
+test plan
+🗓 Day 1 – Preparation & Core Functional Testing
+Goal: Understand the site, set up your environment, and test core flows.
+
+Morning (2–3 hrs)
+
+Set up test environment
+
+Browsers: Chrome, Firefox, Edge (latest versions)
+
+Tools: Jira/Trello/Notion (bug tracking), Lightshot (screenshots), Chrome DevTools
+
+Create test accounts for registration
+
+Review test plan (BCR-TP-001) and refine test cases.
+
+Afternoon (3–4 hrs)
+3. Test Core Functions
+
+Registration (valid & invalid inputs)
+
+Login & Logout
+
+Profile update
+
+Password change
+
+Document defects found (with steps to reproduce & screenshots).
+
+🗓 Day 2 – Feature & UI Testing
+Goal: Test car rating features, navigation, and UI responsiveness.
+
+Morning (2–3 hrs)
+
+Functional Testing
+
+Browse car list & details pages
+
+Submit car ratings & comments
+
+Validate rating calculation and display
+
+Test for duplicate ratings or invalid inputs
+
+Afternoon (3–4 hrs)
+2. UI & UX Testing
+
+Check layout alignment, colors, spacing
+
+Test on mobile view (Chrome DevTools Device Mode)
+
+Verify responsive design for 3 screen sizes: desktop, tablet, mobile
+
+Check image loading, broken links, and button states
+
+Document bugs with screenshots & severity levels.
+
+🗓 Day 3 – Cross-Browser & Regression Testing
+Goal: Ensure site works across browsers and verify fixed bugs.
+
+Morning (2–3 hrs)
+
+Cross-Browser Testing
+
+Execute high-priority test cases in Firefox & Edge
+
+Compare behavior with Chrome results
+
+Note inconsistencies and log browser-specific bugs
+
+Afternoon (3–4 hrs)
+2. Regression Testing
+
+Retest critical bugs fixed from Day 1 & Day 2
+
+Ensure no new bugs are introduced
+
+Wrap Up & Reporting
+
+Prepare Test Summary Report (overview of tests executed, defects found, severity distribution, recommendations)
+
+Finalize bug tracker entries
+
+Deliverables by the End
+✅ Test Plan (BCR-TP-001)
+✅ Test Cases (executed & updated with results)
+✅ Bug Reports (with screenshots & severity)
+✅ Test Summary Report (portfolio-ready)
